@@ -17,7 +17,7 @@ This project implements core computer vision filtering primitives and the Harris
 - Parameter sweep (`sigma`, `k`, window type) and runtime comparison vs. `cv2.cornerHarris`
 
 ---
-<img width="1788" height="880" alt="image" src="https://github.com/user-attachments/assets/efb92a64-2e25-4aaf-8c0a-1a7b31f3de22" />
+<img width="1788" height="882" alt="image" src="https://github.com/user-attachments/assets/92764aa6-ae95-44a2-bd31-a3f52370fa2b" />
 
 
 ## Repository Structure
