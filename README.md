@@ -18,6 +18,8 @@ This project implements core computer vision filtering primitives and the Harris
 
 ---
 <img width="1788" height="882" alt="image" src="https://github.com/user-attachments/assets/92764aa6-ae95-44a2-bd31-a3f52370fa2b" />
+<img width="707" height="551" alt="image" src="https://github.com/user-attachments/assets/ea44e83e-b25a-4eb9-9e13-b53354d85f9a" />
+<img width="1590" height="790" alt="image" src="https://github.com/user-attachments/assets/ca234f42-45a5-4f69-85f5-4395d0e50337" />
 
 
 ## Repository Structure
